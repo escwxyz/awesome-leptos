@@ -6,7 +6,7 @@ Just simply edit the README.md file, and open a PR.
 
 ## Add
 
-You can add anything related to Leptos that you find helpful for users. Please choose a proper category (if there is nothong fits, simply open another PR), and add it using the format `[name](link) - Description`.
+You can add anything related to Leptos that you find helpful for users. Please choose a proper category (if there is nothing fits, simply open another PR), and add it using the format `[name](link) - description`.
 
 Please note all listings except those from Official category are sorted alphabetically.
 
