@@ -75,7 +75,7 @@ Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained re
 
 ## Related
 
-Leptos is heavily inspired by Solid. It has equivalents to some builtin primitives from Solid. Additionally, it works as a framework to build applications both on server and client side, similar to what can be achieved with SolidStart, but fully in Rust.
+Leptos is heavily inspired by Solid. It has equivalents to some builtin primitives from Solid. Additionally, it works as a framework to build fullstack applications, similar to what can be achieved with SolidStart, but fully in Rust.
 
 - [Solid](https://github.com/solidjs/solid) - A declarative, efficient, and flexible JavaScript library for building user interfaces.
 - [SolidStart](https://github.com/solidjs/solid-start) - SolidStart, the Solid app framework.
