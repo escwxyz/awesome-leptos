@@ -37,8 +37,8 @@ Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained re
 ## Templates
 
 - [Heavy Metal Stack](https://github.com/benwis/leptos-heavy-metal-stack) - Heavy Metal Leptos Stack with Tailwind, Axum, Sqlite, and Cargo Leptos.
-- [Tauri Leptos Example](https://github.com/michalvavra/tauri-leptos-example) - Tauri and Leptos example.
 - [Leptos TODOs](https://github.com/MysteryCoder456/leptos_todo_app) - Simple TODO application made with Rust and Leptos.
+- [Tauri Leptos Example](https://github.com/michalvavra/tauri-leptos-example) - Tauri and Leptos example.
 
 ## Crates
 
@@ -61,17 +61,17 @@ Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained re
 
 ## Videos
 
-- [Fine Grained Reactivity with Leptos, Rust, and WASM](https://www.youtube.com/watch?v=9BolA2WTH7U)
 - [Building Web UI's in Rust w/ Greg Johnston](https://www.youtube.com/watch?v=zgY7ql1xwW4)
+- [Fine Grained Reactivity with Leptos, Rust, and WASM](https://www.youtube.com/watch?v=9BolA2WTH7U)
 - [v0.1.0, cargo-leptos, & the World's Best Dark-Mode Toggle](https://www.youtube.com/watch?v=AD3FHodVgE8)
 
 ## Alternatives
 
-- [Sycamore](https://github.com/sycamore-rs/sycamore) - A library for creating reactive web apps in Rust and WebAssembly.
 - [Dioxus](https://github.com/DioxusLabs/dioxus) - Friendly React-like GUI library for desktop, web, mobile, and more.
+- [Percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
 - [sauron](https://github.com/ivanceras/sauron) - A versatile web framework and library for building client-side and server-side web applications.
 - [Seed](https://github.com/seed-rs/seed) - A Rust framework for creating web apps.
-- [Percy](https://github.com/chinedufn/percy) - Build frontend browser apps with Rust + WebAssembly. Supports server side rendering.
+- [Sycamore](https://github.com/sycamore-rs/sycamore) - A library for creating reactive web apps in Rust and WebAssembly.
 
 ## Related
 
