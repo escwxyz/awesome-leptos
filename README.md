@@ -32,6 +32,7 @@ Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained re
 
 ## Projects
 
+- [Blog](https://github.com/LeVuMinhHuy/blog) - Just another blog, but built with rust.
 - [Remote Wake-on-Lan](https://github.com/beeb/remote-wol-rs) - A self-contained, single-binary Rust and Leptos application for remote Wake-on-LAN.
 
 ## Templates
