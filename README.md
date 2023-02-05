@@ -39,6 +39,7 @@ Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained re
 
 - [Boringer Avatars](https://github.com/cmgriffing/boringer-avatars/tree/main/apps/web-leptos) - A fork from boring-avatars. This rewrites the base as Mitosis components and exports into multiple framework flavors.
 - [Heavy Metal Stack](https://github.com/benwis/leptos-heavy-metal-stack) - Heavy Metal Leptos Stack with Tailwind, Axum, Sqlite, and Cargo Leptos.
+- [Leptos IGDB](https://github.com/nunogois/leptos-igdb) - Leptos website that lets you search for games using IGDB.
 - [Leptos TODOs](https://github.com/MysteryCoder456/leptos_todo_app) - Simple TODO application made with Rust and Leptos.
 - [Leptos Redis Upstash](https://github.com/Me163/youtube/tree/main/leptos-redis-upstash) - Redis Upstash example.
 - [Tauri Leptos Example](https://github.com/michalvavra/tauri-leptos-example) - Tauri and Leptos example.
