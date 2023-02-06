@@ -43,6 +43,7 @@ Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained re
 - [Leptos TODOs](https://github.com/MysteryCoder456/leptos_todo_app) - Simple TODO application made with Rust and Leptos.
 - [Leptos Redis Upstash](https://github.com/Me163/youtube/tree/main/leptos-redis-upstash) - Redis Upstash example.
 - [Tauri Leptos Example](https://github.com/michalvavra/tauri-leptos-example) - Tauri and Leptos example.
+- [Tauri Leptos Quickstart](https://github.com/dolpm/tauri-leptos-quickstart) - Just a simple template to get tauri communicating with a leptos front-end.
 
 ## Crates
 
