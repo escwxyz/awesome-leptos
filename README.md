@@ -59,6 +59,8 @@ Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained re
 
 ### Utils
 
+- [leptos-signals](https://github.com/akesson/leptos-signals) - A collection of signals for Leptos.
+
 ## Tooling
 
 ## Articles
