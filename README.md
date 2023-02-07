@@ -50,6 +50,7 @@ Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained re
 ### Component Libraries
 
 - [leptos_aria](https://github.com/ifiokjr/leptos_aria) - A port of `react-aria` to the `leptos` framework.
+- [leptos-declarative](https://github.com/jquesada2016/leptos-declarative) - Declarative components for the leptos rust web framework.
 - [leptos-material](https://github.com/ModProg/leptos-material) - leptos-material.
 
 ### Components
