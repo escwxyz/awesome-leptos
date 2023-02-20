@@ -33,6 +33,7 @@ Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained re
 ## Projects
 
 - [Blog](https://github.com/LeVuMinhHuy/blog) - Just another blog, but built with rust.
+- [Color Flipper](https://github.com/a-isaiahharvey/color-flipper-web) - A random color generator on the web.
 - [Leptos Tutorial](https://github.com/omie-lol/leptos-tutorial) - Leptos tutorial
 - [Remote Wake-on-Lan](https://github.com/beeb/remote-wol-rs) - A self-contained, single-binary Rust and Leptos application for remote Wake-on-LAN.
 
