@@ -65,6 +65,7 @@ Leptos is a full-stack, isomorphic Rust web framework leveraging fine-grained re
 ### Utils
 
 - [leptos-signals](https://github.com/akesson/leptos-signals) - A collection of signals for Leptos.
+- [leptos-tracked](https://github.com/remkop22/leptos-tracked) - Utility traits for interacting with leptos signals.
 - [tauri-glue](https://github.com/dolpm/tauri-glue) - proc macro support for interfacing between rust frontends and tauri.
 
 ## Tooling
